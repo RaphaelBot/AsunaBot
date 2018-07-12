@@ -1,0 +1,17 @@
+{
+    "name": "AsunaBot",
+    "version": "0.0.3",
+    "description": "",
+    "scripts": {
+        "test": "echo \"Error: No test specified\" && exit 1"
+    },
+    "author": "Falafel",
+    "license": "TSC",
+    "dependencies": {
+        "discord.js": "11.3.2",
+        "moment": "2.22.2",
+        "superagent": "3.8.3",
+        "discord-eco": "0.0.10"
+    }
+
+}
